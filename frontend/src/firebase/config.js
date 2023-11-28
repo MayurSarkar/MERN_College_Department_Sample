@@ -3,19 +3,19 @@ import { initializeApp } from "firebase/app";
 import { getStorage } from "firebase/storage";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyBu7JuSPqsm0DTe5RKK9DCKzDaJixnGWWk",
+    apiKey: "",
 
-  authDomain: "rcet-erp.firebaseapp.com",
+  authDomain: "",
 
-  projectId: "rcet-erp",
+  projectId: "",
 
-  storageBucket: "rcet-erp.appspot.com",
+  storageBucket: "",
 
-  messagingSenderId: "506365989068",
+  messagingSenderId: "",
 
-  appId: "1:506365989068:web:f8fb0fc89082d7884f7269",
+  appId: "",
 
-  measurementId: "G-3R39CF1YQ8"
+  measurementId: ""
 
 };
 
